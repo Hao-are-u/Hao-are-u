@@ -37,46 +37,6 @@ My background spans full-cycle recruiting, onboarding program design, data track
 <table border="0" cellpadding="14" cellspacing="0" width="100%">
 <tr>
 <td width="50%" valign="top">
-<h3>🟦 Full-cycle recruiting & onboarding program</h3>
-<b>Ambassador program · Taiwan</b><br/><br/>
-Managed end-to-end recruitment for a campus ambassador program at a fast-growing digital entertainment platform — screening 200+ applicants, conducting 60 structured interviews, and selecting a final cohort of 20. Designed and facilitated remote onboarding sessions via Zoom for two ambassador cohorts totaling 40 members, covering program structure, KPI expectations, benefits systems, and team norms. Built automated KPI tracking workflows using Google Forms, Sheets, and Excel dashboards, reducing manual reporting time by 50%+.
-<br/><br/>
-<code>Full-cycle recruiting</code> <code>Onboarding design</code> <code>KPI tracking</code> <code>Process automation</code> <code>Data accuracy</code>
-<br/><br/>
-<b>Result:</b> 23% improvement in program retention · 50%+ reduction in manual reporting time
-</td>
-<td width="50%" valign="top">
-<h3>🟦 AI-powered workflow automation</h3>
-<b>Operations & partnerships · Singapore / Global</b><br/><br/>
-Built Claude-powered automation workflows at an early-stage Web3 technology startup to streamline influencer screening and partnership activation across 50+ global brand partners. Developed and distributed segmented communications across five channels for multilingual audiences, adapting tone and messaging to each platform to maintain consistent engagement.
-<br/><br/>
-<code>AI-powered workflows</code> <code>Process automation</code> <code>Operations</code> <code>Multilingual coordination</code> <code>Claude</code>
-<br/><br/>
-<b>Result:</b> Research turnaround reduced from one week to one day · 11% improvement in overall platform performance
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🟦 Stakeholder data management & coordination</h3>
-<b>Research operations · Taiwan</b><br/><br/>
-Maintained accurate records and confidential documentation across 100+ stakeholder interviews, producing Excel-based reports and dashboards to track research activities, budget reimbursements, and program data with high accuracy. Oversaw task allocation and workflow coordination for a team of 5 research assistants, ensuring accurate and timely completion of research deliverables and administrative responsibilities.
-<br/><br/>
-<code>Data management</code> <code>Documentation</code> <code>Excel dashboards</code> <code>Team coordination</code> <code>Administrative ops</code>
-<br/><br/>
-<b>Result:</b> Zero reporting errors across multi-institution program · on-time delivery across all milestones
-</td>
-<td width="50%" valign="top">
-<h3>🟦 Organizational diagnostics & people strategy</h3>
-<b>GTM consulting · UK</b><br/><br/>
-Developed a Culture and Leadership diagnostic for a UK-based B2B technology firm using the ADKAR framework and OKR alignment analysis to surface organizational gaps and deliver actionable recommendations to C-suite leaders. Conducted cross-functional stakeholder interviews across Sales, Marketing, Finance, and Technology to identify communication misalignments, synthesizing insights into a 3-year roadmap delivered to senior leadership within three weeks.
-<br/><br/>
-<code>Organizational diagnostics</code> <code>Stakeholder interviews</code> <code>People strategy</code> <code>ADKAR</code> <code>OKR alignment</code>
-<br/><br/>
-<b>Result:</b> 3-year roadmap adopted by senior leadership · delivered within 3 weeks
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
 <h3>🟦 EAP-inspired employee experience platform</h3>
 <b>HR & People strategy project · Taiwan</b><br/><br/>
 Co-developed a digital platform supporting early-career workplace transitions, conducting 12+ HR interviews and analyzing 215+ survey responses to identify employee experience pain points. Translated research findings into a research-backed content platform addressing workplace psychology, burnout, and career uncertainty.
@@ -87,19 +47,56 @@ Co-developed a digital platform supporting early-career workplace transitions, c
 </td>
 <td width="50%" valign="top">
 <h3>🟦 Employee motivation & retention strategy</h3>
-<b>SHRM research project</b><br/><br/>
+<b>SHRM research project · U.S.</b><br/><br/>
 Applied SHRM frameworks and labor law research to develop actionable employee engagement and retention recommendations for university student workers. Synthesized scholarly research on motivation theory, recognition systems, and policy design into structured, implementable recommendations.
 <br/><br/>
 <code>SHRM frameworks</code> <code>Retention strategy</code> <code>Policy documentation</code> <code>Labor law</code> <code>Employee engagement</code>
 <br/><br/>
-<b>Result:</b> Evidence-based retention recommendations grounded in SHRM best practices · <a href="https://drive.google.com/file/d/13dcgGNlSw25S-vjEMgktKTxvBAHHRonQ/view?usp=sharing">View portfolio</a>
+<b>Result:</b> Evidence-based retention recommendations grounded in SHRM best practices · <a href="https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:954d9b7f-57be-4135-bc63-0e2268a0397e">View report →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🟦 Full-cycle recruiting & onboarding program</h3>
+<b>Ambassador program · Taiwan</b><br/><br/>
+When a South Korean entertainment platform needed to build its Taiwan community from scratch, there was no HR team, no playbook, and no precedent. I owned everything: reviewing 200+ applications, running 60 structured interviews, and making the final call on 20 ambassadors. Then came the harder part: making sure they actually stayed and succeeded. I designed the full onboarding experience remotely via Zoom, built out the KPI dashboards in Google Sheets so we had real data to work with, and kept refining the program based on what the cohorts told us on the way out.
+<br/><br/>
+<code>Full-cycle recruiting</code> <code>Onboarding design</code> <code>KPI tracking</code> <code>Process automation</code> <code>Data accuracy</code>
+<br/><br/>
+<b>Result:</b> 23% improvement in program retention · 50%+ reduction in manual reporting time
+</td>
+<td width="50%" valign="top">
+<h3>🟦 AI-powered workflow automation</h3>
+<b>Operations & partnerships · Singapore / Global</b><br/><br/>
+At an early-stage startup, the team was spending a week just to screen and reach out to one batch of partners. I looked at the process and thought — this can be automated. Using Claude and Excel, I rebuilt the sourcing workflow from scratch so what used to take a week took a day. Then I turned to the communication side: 50+ global brand partners across different languages and platforms, each needing a different tone. I built segmented templates and systems so the team could move fast without losing consistency.
+<br/><br/>
+<code>AI-powered workflows</code> <code>Process automation</code> <code>Operations</code> <code>Multilingual coordination</code> <code>Claude</code>
+<br/><br/>
+<b>Result:</b> Research turnaround reduced from one week to one day · 11% improvement in overall platform performance
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🟦 Stakeholder data management & coordination</h3>
+<b>Research operations · Taiwan</b><br/><br/>
+This was a national research program spanning 50+ government agencies and institutions across Taiwan — the kind of coordination where one missed detail can cascade into delays across the whole project. I was the person making sure that didn't happen. I managed the full documentation flow for 100+ interviews, built the dashboards that kept budget, attendance, and deliverables visible to everyone, and coordinated a team of 5 research assistants through shifting priorities. It taught me that good operations is mostly about what doesn't go wrong.
+<br/><br/>
+<code>Data management</code> <code>Documentation</code> <code>Excel dashboards</code> <code>Team coordination</code> <code>Administrative ops</code>
+<br/><br/>
+<b>Result:</b> Zero reporting errors across multi-institution program · on-time delivery across all milestones
+</td>
+<td width="50%" valign="top">
+<h3>🟦 Organizational diagnostics & people strategy</h3>
+<b>GTM consulting · UK</b><br/><br/>
+I walked into a B2B tech firm in the UK with no internal context and three weeks to figure out what was broken. The answer wasn't in the strategy decks — it was in the conversations. I ran interviews across Sales, Marketing, Finance, and Technology, and what kept coming up was the same thing: people weren't talking to each other in ways that actually moved things forward. Using ADKAR and OKR alignment frameworks, I mapped the gaps and turned them into a 3-year roadmap that gave leadership something concrete to act on.
+<br/><br/>
+<code>Organizational diagnostics</code> <code>Stakeholder interviews</code> <code>People strategy</code> <code>ADKAR</code> <code>OKR alignment</code>
+<br/><br/>
+<b>Result:</b> 3-year roadmap adopted by senior leadership · delivered within 3 weeks
 </td>
 </tr>
 </table>
-
 <br/>
-
-🎨 **Full portfolio:** [View here](https://drive.google.com/file/d/13dcgGNlSw25S-vjEMgktKTxvBAHHRonQ/view?usp=sharing) &nbsp;·&nbsp; 🎥 **Video work:** [Google Drive](https://drive.google.com/drive/folders/1T3DwOW0RCmgbsHMm7pvubvBGiz36r72c?usp=drive_link)
 
 ---
 
@@ -117,9 +114,7 @@ Applied SHRM frameworks and labor law research to develop actionable employee en
 
 **HR systems and data**
 
-![HiBob](https://img.shields.io/badge/HiBob-5F5E5A?style=flat-square)
 ![Workday](https://img.shields.io/badge/Workday-CC1A33?style=flat-square)
-![Deel](https://img.shields.io/badge/Deel-000000?style=flat-square)
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
