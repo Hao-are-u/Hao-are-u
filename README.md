@@ -60,7 +60,8 @@ Applied SHRM frameworks and labor law research to develop actionable employee en
 <td width="50%" valign="top">
 <h3>🟦 Full-cycle recruiting & onboarding program</h3>
 <b>Ambassador program · Taiwan</b><br/><br/>
-When a South Korean entertainment platform needed to build its Taiwan community from scratch, there was no HR team, no playbook, and no precedent. I owned everything: reviewing 200+ applications, running 60 structured interviews, and making the final call on 20 ambassadors. Then came the harder part: making sure they actually stayed and succeeded. I designed the full onboarding experience remotely via Zoom, built out the KPI dashboards in Google Sheets so we had real data to work with, and kept refining the program based on what the cohorts told us on the way out.
+When a South Korean entertainment platform was building its Taiwan community, I had an advantage most program managers don't: I had been a first-cohort ambassador myself, with no roadmap and no one to learn from. I knew exactly where the experience broke down.
+That shaped everything I built for the second cohort. I reviewed 200+ applications, ran 60 interviews, selected 20 ambassadors, and designed the onboarding I wished I had, including remote Zoom sessions, Google Sheets KPI dashboards, and a feedback loop with outgoing cohorts so each round got better. The second cohort retained at a rate 23% higher than the first.
 <br/><br/>
 <code>Full-cycle recruiting</code> <code>Onboarding design</code> <code>KPI tracking</code> <code>Process automation</code> <code>Data accuracy</code>
 <br/><br/>
