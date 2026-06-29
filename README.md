@@ -6,9 +6,10 @@
 
 How are you? I'm Hao! ✨ Or you can call me Hansel… or Handsome 😏
 
-I build people systems that actually work — which probably makes sense when you study counseling psychology before pivoting into operations. I think about what employees **feel** before designing the process around them, and I use management frameworks to turn that into scalable, automatable systems.
+I build people systems that actually work — which probably makes sense when you study counseling psychology before moving into operations. What makes my approach a bit different: I think about how employees actually feel before deciding what to build, and I use management frameworks to turn those insights into scalable, automatable systems.
 
-My background spans full-cycle recruiting, onboarding program design, data tracking, AI-powered workflow automation, and cross-functional coordination across four countries and five industries. I thrive in fast-moving environments where there's no playbook yet — and I'm the one who writes it.
+
+Without an HR title, I've spent years doing the work anyway: recruiting, onboarding design, employee experience research, and workflow automation across Taiwan, Singapore, the UK, and the U.S. I use AI tools like Claude to move faster and build smarter, and I thrive in environments where people operations needs to be built from scratch.
 
 <a href="https://www.linkedin.com/in/hao-ming-shm" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
